@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-proshop",
+  "version": "2.0.0",
+  "description": "eCommerce application builtd with the MERN stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Leotrim Behrami",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
