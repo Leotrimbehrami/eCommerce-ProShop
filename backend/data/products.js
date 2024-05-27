@@ -40,8 +40,8 @@ const products = [
   },
   {
     _id: '4',
-    name: 'Sony Playstation 4 Pro White Version',
-    image: '/images/playstation.jpg',
+    name: 'Sony Playstation 5',
+    image: '/images/playstation5.jpg',
     description:
       'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
     brand: 'Sony',
